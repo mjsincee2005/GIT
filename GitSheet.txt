@@ -12,7 +12,7 @@ Green-ready to push
 >>git commit -m"-m is to add msg"
 
 >>git push origin master(ready to push in GitHub)
-.Master/Main has a number of branches
+.Master/Main has several branches
 so, to add that branch
 >>git push origin SubBranchName
 
@@ -23,3 +23,6 @@ so, to add that branch
 >>git config --global user.name "Gmail"
 >>code .(directs to vs code)
 >>git pull origin master(to pull data from GitHub)
+
+>>git checkout -b setup
+>> git checkout main
