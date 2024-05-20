@@ -1,0 +1,18 @@
+push(Local PC----->Global Github account)
+pull(Local PC<-----Global Github account)
+Red-not ready to push
+Green-ready to push
+
+
+>>git add.(All files within the folder)
+>>git add zomato.html zomato.css(to add particular file)
+
+>>git status
+
+>>git commit -m"-m is to add msg"
+
+>>git push origin master(ready to push in github)
+.Master/Main have number of branches
+so, to add that branch
+>>git push origin SubBranchName
+
